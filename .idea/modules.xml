@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ZLQ/ZLQ.iml" filepath="$PROJECT_DIR$/ZLQ/ZLQ.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/teamProject.iml" filepath="$PROJECT_DIR$/.idea/teamProject.iml" />
-      <module fileurl="file://$PROJECT_DIR$/zlq/zlq.iml" filepath="$PROJECT_DIR$/zlq/zlq.iml" />
     </modules>
   </component>
 </project>
