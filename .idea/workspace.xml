@@ -19,13 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="097c3b78-96c3-4653-b66f-9fdf889fa25a" name="Default Changelist" comment="zlqtest">
-      <change afterPath="$PROJECT_DIR$/zlqzlq/zlqzlq.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="097c3b78-96c3-4653-b66f-9fdf889fa25a" name="Default Changelist" comment="zlqtest" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +63,7 @@
       <updated>1631854840042</updated>
       <workItem from="1631854841114" duration="1488000" />
       <workItem from="1631857264771" duration="351000" />
-      <workItem from="1631858747573" duration="696000" />
+      <workItem from="1631858747573" duration="1379000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1631854957606</created>
@@ -120,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631858787602</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="111">
+      <created>1631860090533</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1631860090533</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,7 +145,8 @@
     <MESSAGE value="test2" />
     <MESSAGE value="yyy" />
     <MESSAGE value="zlqtest" />
-    <option name="LAST_COMMIT_MESSAGE" value="zlqtest" />
+    <MESSAGE value="111" />
+    <option name="LAST_COMMIT_MESSAGE" value="111" />
   </component>
   <component name="WindowStateProjectService">
     <state x="147" y="51" key="DiffContextDialog" timestamp="1631855730737">
@@ -159,10 +161,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1631856329693" />
-    <state x="361" y="131" key="Vcs.Push.Dialog.v2" timestamp="1631858791079">
+    <state x="361" y="131" key="Vcs.Push.Dialog.v2" timestamp="1631860092465">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="131" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1631858791079" />
+    <state x="361" y="131" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1631860092465" />
     <state x="451" y="165" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1631857409259" />
     <state x="758" y="419" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1631857396662">
       <screen x="0" y="0" width="1920" height="1040" />
