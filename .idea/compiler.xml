@@ -7,12 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ZLQ" />
+        <module name="zlqzlq" />
         <module name="yyy" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="yyy" target="1.5" />
       <module name="ZLQ" target="1.5" />
+      <module name="zlqzlq" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
